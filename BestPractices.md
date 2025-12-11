@@ -27,7 +27,7 @@ The following files should be in the root directory (top-level):
 See also guidance on [file naming](http://subjectguides.uwaterloo.ca/rdm/basics#filenaming). 
 
 ### Example repository structure
-GitHub respository/  
+GitHub repository/  
 ├── docs/  
 ├── data/  
 ├── scripts/  
